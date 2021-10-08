@@ -1,3 +1,3 @@
-IT IS RUBY APP
+IT IS RUBY APP. This is a joke app for predicting the future.
 
-ruby magic_ball.rb
+To launch: ruby magic_ball.rb
