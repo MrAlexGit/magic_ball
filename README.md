@@ -1,3 +1,6 @@
-IT IS RUBY APP. This is a joke app for predicting the future.
+## RUBY SIMPLE APP - MAGIC BALL
 
-To launch: ruby magic_ball.rb
+This is a joke app for predicting the future. 😌
+
+To run the program with the command: 
+`ruby magic_ball.rb`
